@@ -119,3 +119,12 @@ Final dataset: `final_combined_racing_data.csv`.
 **Mostafa Nasser**  
 Specialist in scraping, automation, and ML pipelines  
 🔗 [GitHub](https://github.com/xx36Mostafa)
+
+
+---
+
+## 📦 Model Note
+
+⚠️ **Pretrained model files were not uploaded due to file size limitations.**  
+To use the full pipeline, please run the main notebook (`main.ipynb`) locally. It will automatically **retrain the model from scratch** using the combined dataset (`final_combined_racing_data.csv`).
+
