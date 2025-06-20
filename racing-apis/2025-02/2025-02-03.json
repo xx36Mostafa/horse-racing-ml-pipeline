@@ -1,0 +1,686 @@
+[
+  {
+    "Date": "2025-02-03",
+    "Venue": "C",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/C/R/races/1",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "C",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/C/R/races/2",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "C",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/C/R/races/3",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "C",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/C/R/races/4",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "C",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/C/R/races/5",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "C",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/C/R/races/6",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "C",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/C/R/races/7",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "S",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/S/R/races/1",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "S",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/S/R/races/2",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "S",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/S/R/races/3",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "S",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/S/R/races/4",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "S",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/S/R/races/5",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "S",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/S/R/races/6",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "S",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/S/R/races/7",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "Y",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/Y/R/races/5",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "Y",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/Y/R/races/6",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "Y",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/Y/R/races/7",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "Y",
+    "Race Number": 8,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/Y/R/races/8",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "Y",
+    "Race Number": 9,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/Y/R/races/9",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "T",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/T/R/races/4",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "T",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/T/R/races/5",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "T",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/T/R/races/6",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "T",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/T/R/races/7",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "T",
+    "Race Number": 8,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/T/R/races/8",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "T",
+    "Race Number": 9,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/T/R/races/9",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "T",
+    "Race Number": 10,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/T/R/races/10",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "E",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/E/R/races/1",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "E",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/E/R/races/2",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "E",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/E/R/races/3",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "E",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/E/R/races/4",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "E",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/E/R/races/5",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "E",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/E/R/races/6",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "E",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/E/R/races/7",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "E",
+    "Race Number": 8,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/E/R/races/8",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "W",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/W/R/races/1",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "W",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/W/R/races/2",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "W",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/W/R/races/3",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "W",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/W/R/races/4",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "W",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/W/R/races/5",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "W",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/W/R/races/6",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "W",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/W/R/races/7",
+    "Track Condition": "GOOD4",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "F",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/F/R/races/1",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "F",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/F/R/races/2",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "F",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/F/R/races/3",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "F",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/F/R/races/4",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "F",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/F/R/races/5",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "F",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/F/R/races/6",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "F",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/F/R/races/7",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "N",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/N/R/races/1",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "N",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/N/R/races/2",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "N",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/N/R/races/3",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "N",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/N/R/races/4",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "N",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/N/R/races/5",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "N",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/N/R/races/6",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "N",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/N/R/races/7",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "H",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/H/R/races/1",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "H",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/H/R/races/2",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "H",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/H/R/races/3",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "H",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/H/R/races/4",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "H",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/H/R/races/5",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "H",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/H/R/races/6",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "H",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/H/R/races/7",
+    "Track Condition": "SOFT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "I",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/I/R/races/1",
+    "Track Condition": "HEAVY",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "I",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/I/R/races/2",
+    "Track Condition": "HEAVY",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "I",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/I/R/races/3",
+    "Track Condition": "HEAVY",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "I",
+    "Race Number": 4,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/I/R/races/4",
+    "Track Condition": "HEAVY",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "I",
+    "Race Number": 5,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/I/R/races/5",
+    "Track Condition": "HEAVY",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "I",
+    "Race Number": 6,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/I/R/races/6",
+    "Track Condition": "HEAVY",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "I",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/I/R/races/7",
+    "Track Condition": "HEAVY",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "I",
+    "Race Number": 8,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/I/R/races/8",
+    "Track Condition": "HEAVY",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "O",
+    "Race Number": 9,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/O/R/races/9",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "X",
+    "Race Number": 7,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/X/R/races/7",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "X",
+    "Race Number": 8,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/X/R/races/8",
+    "Track Condition": "FIRM",
+    "Weather Condition": "FINE"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "K",
+    "Race Number": 1,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/K/R/races/1",
+    "Track Condition": "AWT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "K",
+    "Race Number": 2,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/K/R/races/2",
+    "Track Condition": "AWT",
+    "Weather Condition": "OCAST"
+  },
+  {
+    "Date": "2025-02-03",
+    "Venue": "K",
+    "Race Number": 3,
+    "Race Type": "R",
+    "API URL": "https://api.beta.tab.com.au/v1/historical-results-service/NSW/racing/2025-02-03/K/R/races/3",
+    "Track Condition": "AWT",
+    "Weather Condition": "OCAST"
+  }
+]
