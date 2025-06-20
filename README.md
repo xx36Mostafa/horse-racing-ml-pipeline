@@ -1,11 +1,8 @@
-
-# 🏇 Horse Racing Results Scraper & ML Dataset Builder
+# Horse Racing Results Scraper & ML Dataset Builder
 
 This project automates the extraction, cleaning, and structuring of historical horse racing results from [tab.com.au](https://tab.com.au) using custom scraping logic and machine learning-friendly formatting. It was built for predictive modeling and racing analytics using Python and custom APIs.
 
----
-
-## 📂 Project Structure
+## Project Structure
 
 ```
 .
@@ -17,22 +14,18 @@ This project automates the extraction, cleaning, and structuring of historical h
 └── final_combined_racing_data.csv  # Final merged dataset (output)
 ```
 
----
+## Features
 
-## 🔍 Features
-
-- ✅ **Automated Historical Scraping** with retry logic and proxies  
-- 📅 **Date Range Support** for fetching only required days
-- 🧪 **JSON to CSV Parsing** with structured formatting
-- 🧠 Ready for **Machine Learning Training**
-- 🧼 Handles:
+- Automated Historical Scraping with retry logic and proxies  
+- Date Range Support for fetching only required days
+- JSON to CSV Parsing with structured formatting
+- Ready for Machine Learning Training
+- Handles:
   - Missing or malformed JSON
   - Failed API retries with logging
   - Previous runs resume without duplications
 
----
-
-## 🚀 How It Works
+## How It Works
 
 ### 1. Collect Race URLs by Date
 **`extract-day.py`**  
@@ -44,8 +37,6 @@ python extract-day.py
 
 Outputs JSON files in `racing-apis/YYYY-MM/`.
 
----
-
 ### 2. Scrape and Clean Data
 **`extract-data.py`**  
 Loads the race result URLs from step 1, scrapes relevant race fields (horse, jockey, barrier, trainer, odds, finish), and saves daily structured CSVs.
@@ -55,8 +46,6 @@ python extract-data.py
 ```
 
 Output: Cleaned daily CSVs in `racing-data/YYYY-MM/`.
-
----
 
 ### 3. Combine All Monthly Files
 **`comaine.py`**  
@@ -68,9 +57,7 @@ python comaine.py
 
 Final dataset: `final_combined_racing_data.csv`.
 
----
-
-## 📊 Example Data Columns
+## Example Data Columns
 
 - `Date`
 - `Track`
@@ -87,44 +74,26 @@ Final dataset: `final_combined_racing_data.csv`.
 - `Weather`
 - `Total Runners`
 
----
-
-## 🔧 Requirements
+## Requirements
 
 - Python 3.9+
 - `pandas`
 - `tls-client`  
   > Install using unofficial methods or custom wheels due to its non-standard distribution.
 
----
-
-## ⚠️ Notes
+## Notes
 
 - This script respects retry logic and error recovery.
 - Proxy support is included and can be modified in `extract-day.py`.
 - All scrapers are built with ethical scraping principles, targeting publicly available APIs.
 
----
+## Model Note
 
-## 🧠 Future Work
+Pretrained model files were not uploaded due to file size limitations.  
+To use the full pipeline, please run the main notebook (`main.ipynb`) locally. It will automatically retrain the model from scratch using the combined dataset (`final_combined_racing_data.csv`).
 
-- Model training notebooks for predicting finish positions.
-- Exploratory Data Analysis (EDA) and feature engineering.
-- Deployment-ready race predictor.
-
----
-
-## 🙋‍♂️ Author
+## Author
 
 **Mostafa Nasser**  
 Specialist in scraping, automation, and ML pipelines  
-🔗 [GitHub](https://github.com/xx36Mostafa)
-
-
----
-
-## 📦 Model Note
-
-⚠️ **Pretrained model files were not uploaded due to file size limitations.**  
-To use the full pipeline, please run the main notebook (`main.ipynb`) locally. It will automatically **retrain the model from scratch** using the combined dataset (`final_combined_racing_data.csv`).
-
+[GitHub](https://github.com/xx36Mostafa)
